@@ -14,3 +14,4 @@
     alert(Math.random()*5) 
 6. I worked for Greenpeace call-center.
 7. I went through a "Programming Basics" course on geekbrains. Now I'm taking The Rolling Scopes Front-end developer course. I'm a second-year student of 'Business-IT' faculty at MISIS
+8. I passed EGE in English exam and got 90 points. Currently studying at the hardest course at the university. My English level is C1. I visited 18 countries and I am pretty fluent as I have a lot of multi-cultural practice
